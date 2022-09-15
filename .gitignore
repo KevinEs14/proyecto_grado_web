@@ -1,0 +1,7 @@
+.idea
+.well-known
+.htaccess
+webapp/test
+analisis
+.DS_Store
+.vscode
