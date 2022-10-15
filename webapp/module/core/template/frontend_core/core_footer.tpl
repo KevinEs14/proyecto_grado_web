@@ -3,7 +3,8 @@
         <div class="m-stack m-stack--flex-tablet-and-mobile m-stack--ver m-stack--desktop">
             <div class="m-stack__item m-stack__item--left m-stack__item--middle m-stack__item--last">
 							<span class="m-footer__copyright">
-                                {$marca} - v {$version}
+                                Sistema de Trazabilidad para la caza y venta de carne y cuero de lagarto Yacaré - 2022
+                                {* {$marca} - v {$version} *}
 
 							</span>
             </div>

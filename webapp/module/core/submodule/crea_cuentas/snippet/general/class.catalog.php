@@ -30,12 +30,12 @@ class Subcatalogo extends Table{
             }
             if($tipo==1){
                 $this->addCatalogList("vrhr_territorio.municipio","Municipio","","nombre","","itemId","itemId='".$municipioId."'","","");
-}
-else{
-if($provincia_itemId!=null){
-                $this->addCatalogList("vrhr_territorio.municipio","Municipio","","nombre","","itemId","provinciaId='".$provincia_itemId."'","","");
             }
-}
+            else{
+            if($provincia_itemId!=null){
+                            $this->addCatalogList("vrhr_territorio.municipio","Municipio","","nombre","","itemId","provinciaId='".$provincia_itemId."'","","");
+                        }
+            }
         }
 
 

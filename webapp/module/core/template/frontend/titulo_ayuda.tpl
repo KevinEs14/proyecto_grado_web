@@ -10,12 +10,12 @@
                     <div class="m-dropdown__content">
                         <ul class="m-nav">
                             <li class="m-nav__section m-nav__section--first">
-                                <span class="m-nav__section-text">Comunidad SIARH</span>
+                                <span class="m-nav__section-text">Comunidad</span>
                             </li>
                             <li class="m-nav__item">
                                 <a href="http://www.sirh.gob.bo" target="_blank" class="m-nav__link">
                                     <i class="m-nav__link-icon flaticon-share"></i>
-                                    <span class="m-nav__link-text">SIARH Web</span>
+                                    <span class="m-nav__link-text">Web</span>
                                 </a>
                             </li>
                             <li class="m-nav__item">

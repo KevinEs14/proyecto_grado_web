@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>
-        MMAyA - SIARH - Sistema de Información Ambiental y de Recursos Hídricos
+        Sistema de Trazabilidad para la caza y venta de carne y cuero de lagarto Yacare
     </title>
     <meta name="description" content="Latest updates and statistic charts">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,16 +66,15 @@
 
                     <div class="m-login__wrapper">
 
-                        <div class="m-login__logo">
-                            <a href="#"><img src="{$templateDir}sirh/images/login/otca.png" width="200" style="display:inline" class="img-responsive">
-                            <img src="{$templateDir}sirh/images/login/logo_mmaya2018.png" width="155" style="display:inline" class="img-responsive"></a>
+                        <div class="m-login__logo">                            
+                            <img src="{$templateDir}sirh/images/login/logo_ucb.png" width="155" style="display:inline" class="img-responsive"></a>
                             
                         </div>
 
                         <div class="m-login__signin">
 
                             <div class="m-login__head">
-                                <h3 class="m-login__title">Inicia sesión en SIARH</h3>
+                                <h3 class="m-login__title">Inicia sesión</h3>
                             </div>
 
                             <form class="m-login__form m-form" action="">
@@ -95,28 +94,6 @@
                                         Entrar
                                     </button>
                                 </div>
-
-                                {**}
-                                <div class="form-group m-form__group">
-                                    <h4>¿Qué es SIARH?</h4>
-                                    <p align="justify">
-                                        Es una aplicación informática  que gestiona información de la base de datos <i><strong>"Hídrico - Ambiental"</strong></i>
-                                        y al ser la plataforma principal del sector está preparada para seguir los lineamientos del Plan de Implementación de Gobierno Electrónico.
-                                    </p>
-
-                                    <br>
-                                    <a target="_blank" href="https://www.facebook.com/siarh.bolivia/"><img
-                                                width="30" height="30"
-                                                src="{$templateDir}sirh/images/login/icon/facebook.png?id=32"
-                                                title="Viceministerio de Recursos H&iacute;dricos y Riego" /></a>
-
-                                    <a target="_blank" href="https://twitter.com/sirhbolivia"><img
-                                                width="30" height="30"
-                                                src="{$templateDir}sirh/images/login/icon/twitter.png?id=32"
-                                                title="Viceministerio de Recursos H&iacute;dricos y Riego"/></a>
-
-                                </div>
-                                {**}
                             </form>
                         </div>
 
@@ -211,10 +188,10 @@
             <div class="m-grid__item">
                 <h3 class="m-login__welcome" style="text-shadow: -1px -1px 5px #0A0A0A!important;">Bienvenido</h3>
                 <p class="m-login__msg" style="text-shadow: -1px -1px 5px #0A0A0A!important;">
-                    Ministerio de Medio Ambiente y Agua - OTCA lagartos
+                    Sistema de trazabilidad para la caza y venta de
                     <br />
-                    Sistema de monitoreo y trazabilidad de la caza de lagartos.
-                    {*<br>del Ministerio de Medio Ambiente y Agua*}
+                    carne y cuero de lagarto Yacare
+                    <br>
                 </p>
             </div>
         </div>

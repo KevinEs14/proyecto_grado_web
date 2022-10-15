@@ -3,16 +3,16 @@
     <a href="#" class="m-nav__link m-dropdown__toggle" id="m_topbar_notification_icon">
         <span class="m-nav__link-badge m-badge m-badge--dot m-badge--dot-small m-badge--danger"></span>
         <span class="m-nav__link-icon">
-													<i class="flaticon-music-2"></i>
-												</span>
+		<i class="flaticon-music-2"></i>
+		</span>
     </a>
     <div class="m-dropdown__wrapper">
         <span class="m-dropdown__arrow m-dropdown__arrow--center"></span>
         <div class="m-dropdown__inner">
             <div class="m-dropdown__header m--align-center" style="background: url(themes/metro/assets/app/media/img/misc/notification_bg.jpg); background-size: cover;">
-														<span class="m-dropdown__header-title">
-															9 New
-														</span>
+					<span class="m-dropdown__header-title">
+						9 New
+					</span>
                 <span class="m-dropdown__header-subtitle">
 															User Notifications
 														</span>

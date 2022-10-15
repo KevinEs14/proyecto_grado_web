@@ -55,7 +55,7 @@
                         <div class="row">
                             <div class="col-sm-12 col-xs-12">
                                 <div class="mb-30">
-                                    <h3 class="text-center txt-dark mb-10">Iniciar sesión en SIARH</h3>
+                                    <h3 class="text-center txt-dark mb-10">Iniciar sesión</h3>
                                     <h6 class="text-center nonecase-font txt-grey">Ingrese sus detalles a continuación</h6>
                                 </div>
                                 <div class="form-wrap">

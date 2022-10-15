@@ -2,7 +2,7 @@
     <div class="m-stack m-stack--ver m-stack--general">
         <div class="m-stack__item m-stack__item--middle m-brand__logo">
             <a href="index.php?accion=2" class="m-brand__logo-wrapper">
-                <img alt="MMAyA" src="{$templateDir}sirh/images/login/logo_mmaya2018_white.png" width="160"/>
+                <img alt="MMAyA" src="{$templateDir}sirh/images/login/catolica_blanco.png" width="140"/>
             </a>
         </div>
         <div class="m-stack__item m-stack__item--middle m-brand__tools">

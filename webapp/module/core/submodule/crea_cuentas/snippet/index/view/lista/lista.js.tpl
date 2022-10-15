@@ -104,7 +104,7 @@
                 processing: true,
                 serverSide: true,
                 ajax: {
-                    url: '{/literal}{$getModule}{literal}&accion=getItemList&accion=getItemList',
+                    url: '{/literal}{$getModule}{literal}&accion=getItemList',
                     type: 'POST',
                     data: {},
                 },

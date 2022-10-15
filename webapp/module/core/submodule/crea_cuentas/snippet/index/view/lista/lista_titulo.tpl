@@ -14,7 +14,6 @@
 						<span><i class="fa fa-plus"></i><span>Nuevo registro</span></span>
                 </a>
             </li>
-            {include file="$modulo_frontend_titulo_ayuda"}
         </ul>
     </div>
 </div>
