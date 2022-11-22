@@ -29,7 +29,7 @@
                         data.append('archivo', file);
                         data.append('id',responseText.id);
                         jQuery.ajax({
-                            url: 'http://localhost:3000/resoluciones/',
+                            url: 'http://44.210.94.102:3000/resoluciones/',
                             data: data,
                             cache: false,
                             contentType: false,
@@ -78,7 +78,7 @@
             $('#descargar_archivo').click(function(){
                 var nombre=String("{/literal}{$item.resolucion_path}{literal}").split(".");
         
-                window.open("http://localhost:3000/files/resoluciones/"+nombre[0]);
+                window.open("http://44.210.94.102:3000/files/resoluciones/"+nombre[0]);
                 return false;
             })
             $('#input_archivo').on('change', function() {

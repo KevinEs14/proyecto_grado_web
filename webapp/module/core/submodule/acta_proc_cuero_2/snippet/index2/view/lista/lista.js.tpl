@@ -137,7 +137,7 @@ error: function (xhr, error, code)
                             if(full.estado==="1"){
                                 tipo="Revisado";
                                 color="success";
-                                href='href="http://localhost:3000/acta-cuero/pdf/'+data+' "target="_blank"';
+                                href='href="http://44.210.94.102:3000/acta-cuero/pdf/'+data+' "target="_blank"';
                             }
                             var boton = ''+
                                     {/literal}{if $usuarioInfo.rol_itemId == 1}{literal}

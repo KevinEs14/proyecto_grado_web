@@ -19,7 +19,7 @@
                 if(tco){
                 $.ajax({
                     type: 'GET',
-                    url: 'http://localhost:3000/cust-cuero-tco/pdf/'+tco+'/'+gestion
+                    url: 'http://44.210.94.102:3000/cust-cuero-tco/pdf/'+tco+'/'+gestion
                 }).done(function(data,res,sta) {
                     
                 $("#tco").val(tco);

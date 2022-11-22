@@ -1,6 +1,6 @@
 {literal}
 <script>
-	var direccionAPI="http://localhost:3000/";
+	var direccionAPI="http://44.210.94.102:3000/";
     var table_list
 
     function item_update(id){

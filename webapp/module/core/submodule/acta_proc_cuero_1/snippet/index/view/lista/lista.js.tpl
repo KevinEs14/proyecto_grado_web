@@ -129,7 +129,7 @@ if(!{/literal}{json_encode($gestionVer)}{literal}){
                             if(full["estado"]==1){
                                 boton   +=
                                     {/literal}{if $privFace.editar == 1}{literal}
-                                '<a href="http://localhost:3000/acta-cuero/pdf/'+data+' "target="_blank" class=" m-portlet__nav-link btn m-btn m-btn--hover-warning m-btn--icon m-btn--icon-only m-btn--pill " title="View">'+
+                                '<a href="http://44.210.94.102:3000/acta-cuero/pdf/'+data+' "target="_blank" class=" m-portlet__nav-link btn m-btn m-btn--hover-warning m-btn--icon m-btn--icon-only m-btn--pill " title="View">'+
                                 '<i class="la flaticon-file m--font-success"></i>'+
                                 '</a>'+
                                     {/literal}{/if}{literal}

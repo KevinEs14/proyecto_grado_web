@@ -32,7 +32,7 @@
                         data.append('archivo', file);
                         data.append('id',responseText.id);
                         jQuery.ajax({
-                            url: 'http://localhost:3000/profile/',
+                            url: 'http://44.210.94.102:3000/profile/',
                             data: data,
                             cache: false,
                             contentType: false,
@@ -83,7 +83,7 @@
             $('#descargar_archivo').click(function(){
                 var nombre=String("{/literal}{$item.path_doc_ver}{literal}").split(".");
         
-                window.open("http://localhost:3000/files/usuario/"+nombre[0]);
+                window.open("http://44.210.94.102:3000/files/usuario/"+nombre[0]);
                 return false;
             })
             $('#input_archivo').on('change', function() {

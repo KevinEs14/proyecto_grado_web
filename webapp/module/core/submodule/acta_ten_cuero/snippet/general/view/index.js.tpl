@@ -1,6 +1,6 @@
 {literal}
 <script>
-	var direccionAPI="http://localhost:3000/";
+	var direccionAPI="http://44.210.94.102:3000/";
     var snippet_general_form = function() {
         var idficha = '{/literal}{$id}{literal}';
         var type = '{/literal}{$type}{literal}';
