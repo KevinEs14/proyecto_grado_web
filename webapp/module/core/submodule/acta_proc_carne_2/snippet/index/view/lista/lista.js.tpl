@@ -167,7 +167,7 @@ if(!{/literal}{json_encode($gestionVer)}{literal}){
                                 boton="<div class='m--font-warning'>Revisar</div>"
                             }
                             else{
-                                boton="<div class='m--font-success'>Revisado</div>"
+                                boton="<div class='m--font-success'>Finalizado</div>"
                             }
                             return boton;
                         },

@@ -169,7 +169,7 @@ console.log(full);
                                 boton="<div class='m--font-warning'>Revisar</div>"
                             }
                             else{
-                                boton="<div class='m--font-success'>Descargar</div>"
+                                boton="<div class='m--font-success'>Finalizado</div>"
                             }
                             return boton;
                         },
